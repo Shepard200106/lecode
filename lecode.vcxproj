@@ -139,6 +139,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="100. 相同的树.cpp" />
+    <ClCompile Include="101. 对称二叉树.cpp" />
+    <ClCompile Include="102. 二叉树的层序遍历.cpp" />
+    <ClCompile Include="103. 二叉树的锯齿形层序遍历.cpp" />
+    <ClCompile Include="104. 二叉树的最大深度.cpp" />
+    <ClCompile Include="105. 从前序与中序遍历序列构造二叉树.cpp" />
     <ClCompile Include="50. Pow%28x, n%29.cpp" />
     <ClCompile Include="11. 盛最多水的容器.cpp" />
     <ClCompile Include="12. 整数转罗马数字.cpp" />
@@ -177,11 +183,43 @@
     <ClCompile Include="48. 旋转图像.cpp" />
     <ClCompile Include="49. 字母异位词分组.cpp" />
     <ClCompile Include="51. N 皇后.cpp" />
+    <ClCompile Include="59. 螺旋矩阵 II.cpp" />
+    <ClCompile Include="60. 排列序列.cpp" />
+    <ClCompile Include="61. 旋转链表.cpp" />
+    <ClCompile Include="62. 不同路径.cpp" />
+    <ClCompile Include="63. 不同路径 II.cpp" />
+    <ClCompile Include="71. 简化路径.cpp" />
+    <ClCompile Include="72. 编辑距离.cpp" />
+    <ClCompile Include="73. 矩阵置零.cpp" />
+    <ClCompile Include="74. 搜索二维矩阵.cpp" />
+    <ClCompile Include="75. 颜色分类.cpp" />
+    <ClCompile Include="76. 最小覆盖子串.cpp" />
+    <ClCompile Include="77. 组合.cpp" />
+    <ClCompile Include="78. 子集.cpp" />
+    <ClCompile Include="79. 单词搜索.cpp" />
     <ClCompile Include="8.字符串转换整数 (atoi).cpp" />
     <ClCompile Include="7.整数反转.cpp" />
     <ClCompile Include="5.最长回文判断.cpp" />
     <ClCompile Include="6.N字形变换.cpp" />
     <ClCompile Include="10.正则表达式匹配.cpp" />
+    <ClCompile Include="80. 删除有序数组中的重复项 II.cpp" />
+    <ClCompile Include="81. 搜索旋转排序数组 II.cpp" />
+    <ClCompile Include="82. 删除排序链表中的重复元素 II.cpp" />
+    <ClCompile Include="84. 柱状图中最大的矩形.cpp" />
+    <ClCompile Include="85. 最大矩形.cpp" />
+    <ClCompile Include="86. 分隔链表.cpp" />
+    <ClCompile Include="88. 合并两个有序数组.cpp" />
+    <ClCompile Include="89. 格雷编码.cpp" />
+    <ClCompile Include="91. 解码方法.cpp" />
+    <ClCompile Include="92. 反转链表 II.cpp" />
+    <ClCompile Include="93. 复原IP地址.cpp" />
+    <ClCompile Include="94. 二叉树的中序遍历.cpp" />
+    <ClCompile Include="96. 不同的二叉搜索树.cpp" />
+    <ClCompile Include="97. 交错字符串.cpp" />
+    <ClCompile Include="98. 验证二叉搜索树.cpp" />
+    <ClCompile Include="99. 恢复二叉搜索树.cpp" />
+    <ClCompile Include="不同的二叉搜索树 II.cpp" />
+    <ClCompile Include="子集 II.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="headFile.h" />

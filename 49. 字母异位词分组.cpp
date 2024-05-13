@@ -15,8 +15,3 @@ public:
         return ans;
     }
 };
-int main() {
-    Solution s;
-    vector<string> t = { "eat","tea","tan","ate","nat","bat" };
-    s.groupAnagrams(t);
-}
