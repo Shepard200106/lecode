@@ -145,6 +145,13 @@
     <ClCompile Include="103. 二叉树的锯齿形层序遍历.cpp" />
     <ClCompile Include="104. 二叉树的最大深度.cpp" />
     <ClCompile Include="105. 从前序与中序遍历序列构造二叉树.cpp" />
+    <ClCompile Include="106. 从中序与后序遍历序列构造二叉树.cpp" />
+    <ClCompile Include="107. 二叉树的层序遍历 II.cpp" />
+    <ClCompile Include="108. 将有序数组转换为二叉搜索树.cpp" />
+    <ClCompile Include="110. 平衡二叉树.cpp" />
+    <ClCompile Include="111. 二叉树的最小深度.cpp" />
+    <ClCompile Include="112. 路径总和.cpp" />
+    <ClCompile Include="113. 路径总和 II.cpp" />
     <ClCompile Include="50. Pow%28x, n%29.cpp" />
     <ClCompile Include="11. 盛最多水的容器.cpp" />
     <ClCompile Include="12. 整数转罗马数字.cpp" />
